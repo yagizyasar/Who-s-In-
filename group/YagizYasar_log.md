@@ -40,7 +40,7 @@ I have created EventActivity page for each unique event so that users can join e
 I created the required classes for participants by looking my and my friends' codes. I added Show Participant button to Event Activity page so that users can look at the current participants of the events, also did some minor bug fixes in the code and styling.
 
 ### May 24th - May 28th, 2020
-Last revisions on the code. This week, I only tried to change the package name to more proper one, but couldn't manage it. Bye bye CS102, hopefully...
+Last revisions and minor bug fixes on the code. Bye bye CS102, hopefully...
 
 
 
